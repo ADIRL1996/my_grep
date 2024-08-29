@@ -1,0 +1,7 @@
+﻿  command_reader.c
+  link_list.c
+  my_grep.c
+  text_reader.c
+c:\לימודים\סמסטר ז'\מעבדה מתקדמת בשפת c\תרגיל 2\ex2\ex2\text_reader.c(135): warning C4047: 'initializing': 'line_node *' differs in levels of indirection from 'int'
+  Generating Code...
+  ex2.vcxproj -> C:\לימודים\סמסטר ז'\מעבדה מתקדמת בשפת C\תרגיל 2\ex2\Debug\ex2.exe

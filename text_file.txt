@@ -1,0 +1,5 @@
+tack
+This function returns a pointer
+to the FIRST occurrence in haystack of 
+any of the entire sequence of characters specified in needle,
+or a null pointer if the sequence is not present in haystack.

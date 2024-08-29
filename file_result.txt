@@ -1,0 +1,2 @@
+to the first occurrence in haystack of 
+or a null pointer if the sequence is not present in haystack.
